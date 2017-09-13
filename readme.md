@@ -1,30 +1,25 @@
-# This is a large heading
+# Emily
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of San Juan Capistrano, in the state of California, in the United States of America
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Of Bees and Mist* by some unknown guy
+- *Watership Down* by ??
+- *Catch 22* by Joseph Heller 
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about visiting these places:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. The Aldalusian mountains in Spain.
+2. Zion National Park in Utah.
+3. Balinese water villas.
 
-nano README.md
+### Contact
+
+The best way to get in touch with me is via web (https://www.ss.uci.edu/vpnl).
